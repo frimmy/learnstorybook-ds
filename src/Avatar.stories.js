@@ -59,3 +59,11 @@ export const Large = (args) => (
     />
   </div>
 );
+const Template = args => <Avatar {...args} />;
+export const Controls = Template.bind({});
+Controls.args = {
+  loading: false,
+  size: 'tiny',
+  username: 'Adrian Frimmy',
+  src:"https://avatars3.githubusercontent.com/u/3891663"
+}
