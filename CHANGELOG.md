@@ -1,5 +1,17 @@
 # v0.1.1 (Fri Sep 11 2020)
 
+#### ⚠️ Pushed to `master`
+
+- add release script for auto deploy ([@frimmy](https://github.com/frimmy))
+
+#### Authors: 1
+
+- Adrian ([@frimmy](https://github.com/frimmy))
+
+---
+
+# v0.1.1 (Fri Sep 11 2020)
+
 -- Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon` and `Link` components.
 
 #### 🐛 Bug Fix
